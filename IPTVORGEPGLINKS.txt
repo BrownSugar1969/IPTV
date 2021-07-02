@@ -1,0 +1,50 @@
+To use change the dl=0 to dl=1 to point to the file instead of the page holding the file
+
+EPG Compressed 06/14/21
+https://www.dropbox.com/s/j9qeh4mgyl93rk4/IPTVORGALL.xml.gz?dl=1
+
+
+EPG 06/14/21
+https://www.dropbox.com/s/jm75cu1welrht1w/IPTVORGALL.xml?dl=1
+
+
+M3U 6/14/21
+https://www.dropbox.com/s/k7ekwzbp3kdl02r/IPTVORGALL.m3u?dl=1
+
+
+
+
+
+EPG Compressed 07/02/21
+https://www.dropbox.com/s/2uyzv8zdamjm93m/IPTVORGALL.xml.gz?dl=1
+
+
+EPG 07/02/21
+https://www.dropbox.com/s/5jk1lswujyyu2ed/IPTVORGALL.xml?dl=1
+
+
+M3U 7/2/21
+https://www.dropbox.com/s/6zrzt1tyjikrks7/IPTVORGALL.m3u?dl=1
+
+
+
+
+
+
+EPG Compressed
+https://www.dropbox.com/s/lodfnmv9fx0s3gl/IPTVORGEPG.xml.gz?dl=1
+
+
+EPG
+https://www.dropbox.com/s/6mvhhvvikr2hglu/IPTVORGEPG.xml?dl=1
+
+
+
+M3U
+https://www.dropbox.com/s/cs2bmlspb0p4ki5/IPTVORGEPG.m3u?dl=1
+
+
+
+
+
+
