@@ -45,6 +45,64 @@ https://www.dropbox.com/s/cs2bmlspb0p4ki5/IPTVORGEPG.m3u?dl=1
 
 
 
+MERGED M3U
+https://www.dropbox.com/s/wxbgove46ul8wra/MergedList.m3u?dl=1
+
+
+MERGED EPG
+https://www.dropbox.com/s/1wfcfs6zccd1dm4/MergedEPG.xml?dl=1
+
+
+
+MERGED EPG COMPRESSED
+https://www.dropbox.com/s/2jvo7jcpjztfnwl/MergedEPG.xml.gz?dl=1
+
+
+
+USTVGO M3U
+https://www.dropbox.com/s/7xpsnrkud4xxwcz/ustvgo.m3u?dl=1
+
+https://tinyurl.com/ustvgom3u
+
+
+YOUTUBE M3U
+https://www.dropbox.com/s/zfhz9ar748dmclt/youtube.m3u?dl=1
+
+https://tinyurl.com/youtubem3u
+
+
+
+PLUTO TV M3U
+https://www.dropbox.com/s/uvroj3h9yj8aw0n/playlist.m3u8?dl=1
+
+https://tinyurl.com/PlutoTVm3u
+
+
+
+IPTVORGEPGLINKS
+https://www.dropbox.com/s/8yirznra1pq6l15/IPTVORGEPGLINKS.txt?dl=1
+https://www.dropbox.com/s/ya01nynwztvndcg/IPTVORGEPGLINKS.txt?dl=1
+
+
+USA-UK-LEGAL
+https://www.dropbox.com/s/ogr0z6rsigiaafz/USA-UK-Legal.m3u?dl=1
+
+
+USAUKLEGAL EPG
+https://www.dropbox.com/s/1ix0acg5lz96dhm/USAUKLEGAL.xml?dl=1
+
+
+
+USAUKLEGAL EPG COMPRESSED
+https://www.dropbox.com/s/rqoay982sknj35i/USAUKLEGAL.xml.gz?dl=1
+
+
+USAUKLEGAL M3U
+https://www.dropbox.com/s/joe13i2vpiygv20/USAUKLEGAL.m3u?dl=1
+
+
+KEVSEPG
+https://github.com/epgshare01/share01/raw/f32053497b76166e2d63f0b89dd625ab80e39795/epg_ripper_US1.xml.gz
 
 
 
